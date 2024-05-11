@@ -32,6 +32,14 @@
             "Caratula": "https://i.ibb.co/09dYHqQ/disco-3.webp",
             "Descripcion": "Black Holes and revelations de Muse, es el mejor album de la historia Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas culpa soluta eveniet quo mollitia enim eos, voluptate nulla eum autem nihil at, laboriosam adipisci, ut reprehenderit maiores suscipit est repellendus. ",
             "Valor": 10000
+        },
+        {
+            "id": 5,
+            "Artista": "Bee Gees",
+            "Album": "Greatest Hits",
+            "Caratula": "https://i.ibb.co/41d8tXs/disco-4.jpg",
+            "Descripcion": "Black Holes and revelations de Muse, es el mejor album de la historia Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas culpa soluta eveniet quo mollitia enim eos, voluptate nulla eum autem nihil at, laboriosam adipisci, ut reprehenderit maiores suscipit est repellendus. ",
+            "Valor": 15000
         }
     ]
 }
